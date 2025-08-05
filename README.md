@@ -14,3 +14,4 @@ OASIS-3 Dataset: The Open Access Series of Imaging Studies (OASIS-3) data are pu
 Longitudinal structural MRI
 Cognitive assessment scores
 Demographic information
+All results are made in 3.9.10 and acanconda version 2024(Spyder)
